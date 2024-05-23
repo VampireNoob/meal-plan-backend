@@ -36,6 +36,3 @@ app.use(routes);
 app.listen(PORT, () => {
     console.log(`Ich bin PORT Nr. ${PORT}`)
 })
-
-// mongoDB: daywalker270581 / tR02oE1EIup5rDnT
-// mongodb+srv://daywalker270581:<password>@cluster0.jhdjw5i.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
